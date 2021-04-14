@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/DayTime/BirchCrossRoads.unity
+- path: Assets/Scenes/StartCamp.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

@@ -22,4 +22,14 @@ public class ScheneChanger : MonoBehaviour
         Debug.Log("ButtonPressed");
 
     }
+
+    public void QuitGame()
+    {
+        
+            Application.Quit();
+
+            Debug.Log("Done laying");
+       
+    }
+
 }
