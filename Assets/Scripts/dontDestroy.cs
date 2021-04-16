@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class dontDestroy : MonoBehaviour
 {
-    public GameObject birbs;
+    public List<sound> sounds = new List<sound>();
 
     private void Awake()
     {
-        DontDestroyOnLoad(birbs);
+        DontDestroyOnLoad(sounds);
     }
 }

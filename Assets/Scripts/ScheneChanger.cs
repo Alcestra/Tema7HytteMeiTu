@@ -23,13 +23,5 @@ public class ScheneChanger : MonoBehaviour
 
     }
 
-    public void QuitGame()
-    {
-        
-            Application.Quit();
-
-            Debug.Log("Done laying");
-       
-    }
 
 }

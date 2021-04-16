@@ -12,21 +12,39 @@ EditorBuildSettings:
     path: Assets/Scenes/StartCamp.unity
     guid: c16782c17e1e08c4db8b8c37a60fcc75
   - enabled: 1
-    path: Assets/Scenes/DayTime/PathToBearLeft.unity
+    path: Assets/Scenes/DayTime/woods/PathToBearLeft.unity
     guid: e02f1ef334dcfb04f92d912ce215886f
   - enabled: 1
-    path: Assets/Scenes/DayTime/PathToBearRight.unity
+    path: Assets/Scenes/DayTime/woods/PathToBearRight.unity
     guid: 1087ba6f8acb51f4a8219f94fe18e7c1
   - enabled: 1
-    path: Assets/Scenes/DayTime/BirchCrossRoads.unity
+    path: Assets/Scenes/DayTime/woods/BirchCrossRoads.unity
     guid: 9e50c9451fa85fb40b7fc10f1a8c061c
   - enabled: 1
-    path: Assets/Scenes/EnterDarkWoods.unity
+    path: Assets/Scenes/NightTime/EnterDarkWoods.unity
     guid: 9f3c0cc033343c9409e577d45fa1f656
   - enabled: 1
-    path: Assets/Scenes/DayTime/DeathScenario/BearLeftPath.unity
+    path: Assets/Scenes/DayTime/woods/DeathScenario/BearLeftPath.unity
     guid: e91859a835adaaa41a5836d9c2763b69
   - enabled: 1
-    path: Assets/Scenes/DayTime/DeathScenario/BearRightPath.unity
+    path: Assets/Scenes/DayTime/woods/DeathScenario/BearRightPath.unity
     guid: d948124c21febf140ab40e1a1fe894ad
+  - enabled: 1
+    path: Assets/Scenes/DayTime/woods/DeathScenario/BearDeath.unity
+    guid: 64c51c0cb2edd84489844bf98aaa0b71
+  - enabled: 1
+    path: Assets/Scenes/DayTime/Mountain/MountainPath.unity
+    guid: 7425a01ee6b072d4597a5e9e77059935
+  - enabled: 1
+    path: Assets/Scenes/DayTime/Mountain/PathToAvalanch.unity
+    guid: c3407793c414e4b4ab1a2ee94ef1af82
+  - enabled: 1
+    path: Assets/Scenes/DayTime/Mountain/PathToCliff.unity
+    guid: 4637dec22b6d2c74da000f197183c3f8
+  - enabled: 1
+    path: Assets/Scenes/DayTime/Mountain/Deaths/Avalanch.unity
+    guid: b50f1fb29e04549439663dcb1c83998e
+  - enabled: 1
+    path: Assets/Scenes/DayTime/Mountain/Deaths/CliffDeath.unity
+    guid: 99f8f5f1521757d4aa164c88a05f066b
   m_configObjects: {}
