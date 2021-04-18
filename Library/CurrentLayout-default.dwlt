@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 39540
+  controlID: 21
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 433, y: 492}
   m_MaxSize: {x: 14003, y: 14042}
   vertical: 0
-  controlID: 39541
+  controlID: 47
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -172,7 +172,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 39542
+  controlID: 134
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 39522
+  controlID: 48
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -270,8 +270,8 @@ MonoBehaviour:
     y: 0
     width: 420
     height: 479
-  m_MinSize: {x: 201, y: 221}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 17}
   m_Panes:
   - {fileID: 17}
@@ -365,7 +365,7 @@ MonoBehaviour:
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
-  m_MaximizeOnPlay: 1
+  m_MaximizeOnPlay: 0
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
@@ -455,9 +455,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.1256661, y: 2.2140207, z: -2.0444288}
+    m_Target: {x: -49.24284, y: 1.7236848, z: -10.2828045}
     speed: 2
-    m_Value: {x: -3.1256661, y: 2.2140207, z: -2.0444288}
+    m_Value: {x: -49.24284, y: 1.7236848, z: -10.2828045}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -508,9 +508,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 34.926178
+    m_Target: 69.63849
     speed: 2
-    m_Value: 34.926178
+    m_Value: 69.63849
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -590,7 +590,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 982fffff0630ffff1031ffff0c32ffff2632ffff3832ffff1a37ffff5837fffff23affff3a4dffffc84effff0a4fffff244fffff684fffffbe4fffffec50ffff2e52ffff4e54ffffb060ffffde6dffff426effff646fffff926fffffda6fffff9c70ffffcc75ffff0476ffff3476ffffd076ffff7677ffffd07affff827bffff847bffffa67bffffdc7bffff0c7cfffff491ffff1294ffff3e9affff52a3ffff5ca7ffffa4a7fffff2a7ffff14a8ffff66a8ffffa0a8ffff34adffff54b0ffff20b4ffff5abbffff52beffff28c0ffff4ac0ffff0ec1ffff2cc1ffffb4c4ffff3cc5ffffb8ccfffffacdffff3ee5ffff50e5ffff5ce8ffff80e9ffffb4e9fffff4ebffff32ecffff5cecffff20f4ffff4efbffff4c3c00004e6a0000f07e0000287f000048ad0000
+      m_ExpandedIDs: 52fbffff7a3a0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -677,22 +677,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Art
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 58
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Art
   m_LastFoldersGridSize: 58
   m_LastProjectPath: C:\Users\3D\Desktop\Tema7\Tema7Repo\Tema7HytteMeiTu
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fe3a0000
-    m_LastClickedID: 15102
-    m_ExpandedIDs: 00000000f03a0000f23a000044880000
+    m_SelectedIDs: e03a0000
+    m_LastClickedID: 15072
+    m_ExpandedIDs: 00000000d03a0000d23a0000d43a0000d63a0000e03a0000e23a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -720,7 +720,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f03a0000f23a0000f83a0000fc3a0000
+    m_ExpandedIDs: 00000000d03a0000d23a0000d43a0000d63a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 

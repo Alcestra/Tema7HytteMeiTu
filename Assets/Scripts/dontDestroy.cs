@@ -4,10 +4,12 @@ using UnityEngine;
 
 public class dontDestroy : MonoBehaviour
 {
-    public List<sound> sounds = new List<sound>();
+    public AudioClip Birbs;
+    public AudioClip BG_Music;
+
 
     private void Awake()
     {
-        DontDestroyOnLoad(sounds);
+        DontDestroyOnLoad(this.gameObject);
     }
 }
