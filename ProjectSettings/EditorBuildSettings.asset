@@ -21,16 +21,16 @@ EditorBuildSettings:
     path: Assets/Scenes/DayTime/woods/BirchCrossRoads.unity
     guid: 9e50c9451fa85fb40b7fc10f1a8c061c
   - enabled: 1
-    path: Assets/Scenes/NightTime/EnterDarkWoods.unity
+    path: Assets/Scenes/NightTime/ScaryWoods/EnterDarkWoods.unity
     guid: 9f3c0cc033343c9409e577d45fa1f656
   - enabled: 1
-    path: Assets/Scenes/DayTime/woods/DeathScenario/BearLeftPath.unity
+    path: Assets/Scenes/DayTime/woods/BearLeftPath.unity
     guid: e91859a835adaaa41a5836d9c2763b69
   - enabled: 1
-    path: Assets/Scenes/DayTime/woods/DeathScenario/BearRightPath.unity
+    path: Assets/Scenes/DayTime/woods/BearRightPath.unity
     guid: d948124c21febf140ab40e1a1fe894ad
   - enabled: 1
-    path: Assets/Scenes/DayTime/woods/DeathScenario/BearDeath.unity
+    path: Assets/Scenes/Deaths/BearDeath.unity
     guid: 64c51c0cb2edd84489844bf98aaa0b71
   - enabled: 1
     path: Assets/Scenes/DayTime/Mountain/MountainPath.unity
@@ -42,9 +42,33 @@ EditorBuildSettings:
     path: Assets/Scenes/DayTime/Mountain/PathToCliff.unity
     guid: 4637dec22b6d2c74da000f197183c3f8
   - enabled: 1
-    path: Assets/Scenes/DayTime/Mountain/Deaths/Avalanch.unity
+    path: Assets/Scenes/Deaths/Avalanch.unity
     guid: b50f1fb29e04549439663dcb1c83998e
   - enabled: 1
-    path: Assets/Scenes/DayTime/Mountain/Deaths/CliffDeath.unity
+    path: Assets/Scenes/Deaths/CliffDeath.unity
     guid: 99f8f5f1521757d4aa164c88a05f066b
+  - enabled: 1
+    path: Assets/Scenes/NightTime/ScaryWoods/DarkWoods.unity
+    guid: 916e88e741c30854fb6d944b7f48460b
+  - enabled: 1
+    path: Assets/Scenes/NightTime/FrozenLake/Lake.unity
+    guid: c9296a6221bce6341b4e0c60b0370a0a
+  - enabled: 1
+    path: Assets/Scenes/Deaths/LakeDeath.unity
+    guid: 0fc68d0157cb69d4097000dfbef2d0e6
+  - enabled: 1
+    path: Assets/Scenes/NightTime/Cabin/Cabin.unity
+    guid: 168f8b7b4609e5c4abf1b756fe224445
+  - enabled: 1
+    path: Assets/Scenes/NightTime/SpruceWoods/SprucePathToBear.unity
+    guid: bb126b8ef67c8a442b1e53630deb8e7b
+  - enabled: 1
+    path: Assets/Scenes/NightTime/SpruceWoods/SprucePathToCabin.unity
+    guid: 77e4be3a046fd604ba9cb23faf6facca
+  - enabled: 1
+    path: Assets/Scenes/NightTime/SpruceWoods/SprucePathtoLake.unity
+    guid: f7e2d1a5fa9fba346bd915223e9664fb
+  - enabled: 1
+    path: Assets/Scenes/NightTime/SpruceWoods/ThickSpruceWoods.unity
+    guid: dfc3a89414285214db70880e3fb8af0d
   m_configObjects: {}
