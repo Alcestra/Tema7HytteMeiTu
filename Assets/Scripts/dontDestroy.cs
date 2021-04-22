@@ -4,12 +4,27 @@ using UnityEngine;
 
 public class dontDestroy : MonoBehaviour
 {
-    public AudioClip Birbs;
-    public AudioClip BG_Music;
+    public AudioClip Theme;
+    public AudioClip Ambiance;
+    public string sndPlayer;
 
 
     private void Awake()
     {
         DontDestroyOnLoad(this.gameObject);
+
+        BegoneSound();
+
     }
+
+    void BegoneSound()
+    {
+
+        if(GameObject.FindGameObjectsWithTag("SndPlayer").Length > 1)
+        {
+            Destroy(GameObject.FindGameObjectWithTag("SndPlayer"));
+        }
+            
+    }
+
 }

@@ -1005,6 +1005,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PathWayTwo
       objectReference: {fileID: 0}
+    - target: {fileID: 3078861884005458801, guid: d49c99abc88d848439989ce341e56fbf, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3078861884005458813, guid: d49c99abc88d848439989ce341e56fbf, type: 3}
       propertyPath: m_Pivot.x
       value: 0
@@ -1088,6 +1092,10 @@ PrefabInstance:
     - target: {fileID: 3078861884005458813, guid: d49c99abc88d848439989ce341e56fbf, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3078861884769337973, guid: d49c99abc88d848439989ce341e56fbf, type: 3}
+      propertyPath: sceneName
+      value: BearDeath
       objectReference: {fileID: 0}
     - target: {fileID: 3078861884769337974, guid: d49c99abc88d848439989ce341e56fbf, type: 3}
       propertyPath: m_AnchorMax.x

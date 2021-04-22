@@ -1407,7 +1407,7 @@ GameObject:
   - component: {fileID: 1732396169}
   - component: {fileID: 1732396168}
   m_Layer: 0
-  m_Name: BIrbs
+  m_Name: Ambiance
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1423,9 +1423,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: e10b55126b3987c4e9e04c3af8db05a6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 01e67be835314d443b9e85e397aecf4d, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.05
+  m_Volume: 0.2
   m_Pitch: 1
   Loop: 1
   Mute: 0
@@ -1600,9 +1600,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: d2b1eeb85c6de0b42a42264c58a2032b, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.3
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1777,7 +1777,7 @@ GameObject:
   - component: {fileID: 1892250277}
   - component: {fileID: 1892250276}
   m_Layer: 0
-  m_Name: dontDestroy
+  m_Name: ForestSound
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1795,8 +1795,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 30beeef3cb8c86145850533682e0b664, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Birbs: {fileID: 8300000, guid: e10b55126b3987c4e9e04c3af8db05a6, type: 3}
-  BG_Music: {fileID: 8300000, guid: d2b1eeb85c6de0b42a42264c58a2032b, type: 3}
+  Theme: {fileID: 0}
+  Ambiance: {fileID: 0}
 --- !u!4 &1892250277
 Transform:
   m_ObjectHideFlags: 0
@@ -1824,6 +1824,7 @@ GameObject:
   - component: {fileID: 2050618479}
   - component: {fileID: 2050618478}
   - component: {fileID: 2050618477}
+  - component: {fileID: 2050618480}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1896,6 +1897,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2050618480
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2050618476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9d0e62f6307d914c91755250605372f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Talking: "Sola er p\xE5 vei ned, p\xE5 tide \xE5 komme seg hjem f\xF8r det blir
+    m\xF8rkt"
 --- !u!1 &2060105277
 GameObject:
   m_ObjectHideFlags: 0

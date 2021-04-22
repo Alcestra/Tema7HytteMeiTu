@@ -1569,6 +1569,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: PathwaysTrio
       objectReference: {fileID: 0}
+    - target: {fileID: 5341508822214433165, guid: 971f58fce8dad514d88165d3040500a9, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5341508823135365744, guid: 971f58fce8dad514d88165d3040500a9, type: 3}
       propertyPath: sceneName
       value: PathToBearLeft

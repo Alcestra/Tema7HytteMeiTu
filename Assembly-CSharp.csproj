@@ -59,8 +59,9 @@
     <Compile Include="Assets\Scripts\dontDestroy.cs" />
     <Compile Include="Assets\Scripts\ScheneChanger.cs" />
     <Compile Include="Assets\Scripts\PlayerDead.cs" />
+    <Compile Include="Assets\Scripts\SoundReset.cs" />
     <Compile Include="Assets\Scripts\QuitGame.cs" />
-    <Compile Include="Assets\Scripts\deathEvent.cs" />
+    <Compile Include="Assets\Scripts\CharTalking.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

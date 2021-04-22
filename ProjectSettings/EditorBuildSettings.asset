@@ -49,7 +49,16 @@ EditorBuildSettings:
     guid: 99f8f5f1521757d4aa164c88a05f066b
   - enabled: 1
     path: Assets/Scenes/NightTime/ScaryWoods/DarkWoods.unity
+    guid: 5d3e70abdeba25643a776d41ace20834
+  - enabled: 1
+    path: Assets/Scenes/NightTime/ScaryWoods/Labyrinth/DarkWoodsOwlRight.unity
     guid: 916e88e741c30854fb6d944b7f48460b
+  - enabled: 1
+    path: Assets/Scenes/NightTime/ScaryWoods/Labyrinth/DarkWoodsOwlLeft.unity
+    guid: c79a38078c151624caea78f19baf1db7
+  - enabled: 1
+    path: Assets/Scenes/NightTime/ScaryWoods/Labyrinth/DarkWoodsOwlMiddle.unity
+    guid: 2c2060661c244ac44b737aa0db501f5f
   - enabled: 1
     path: Assets/Scenes/NightTime/FrozenLake/Lake.unity
     guid: c9296a6221bce6341b4e0c60b0370a0a
@@ -65,9 +74,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/NightTime/SpruceWoods/SprucePathToCabin.unity
     guid: 77e4be3a046fd604ba9cb23faf6facca
-  - enabled: 1
-    path: Assets/Scenes/NightTime/SpruceWoods/SprucePathtoLake.unity
-    guid: f7e2d1a5fa9fba346bd915223e9664fb
   - enabled: 1
     path: Assets/Scenes/NightTime/SpruceWoods/ThickSpruceWoods.unity
     guid: dfc3a89414285214db70880e3fb8af0d
